@@ -1,1 +1,3 @@
-GHOST :: Golang HOST \r\n a golang shell
+GHOST :: Golang HOST
+
+Scripting with golang
